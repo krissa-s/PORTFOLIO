@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: darkcyan;
+    margin: 0;
+    padding: 20px;
+}
+
+.resume {
+    max-width: 600px;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #007BFF;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #555;
+    line-height: 1.5;
+    border-top: 1px dashed #ccc;
+    padding-top: 10px;
+    margin-top: 5px;
+}
